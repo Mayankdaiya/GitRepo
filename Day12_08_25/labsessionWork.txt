@@ -9,3 +9,5 @@ Pull changes from remote
 Make changes and push
 Stage & commit
 Push
+
+Learned about the branching concept
