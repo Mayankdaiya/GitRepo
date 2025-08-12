@@ -11,3 +11,4 @@ Stage & commit
 Push
 
 Learned about the branching concept
+newBranch added and writing from there
